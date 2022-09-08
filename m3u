@@ -1,0 +1,57 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA CAMPEONES
+http://ott-serveur.com:8000/937388595669676/744370120217993/30025
+
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA DE CAMPEONES 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA DE CAMPEONES 1 FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/30041
+
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 3  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA DE CAMPEONES 3  Espa
+http://ott-serveur.com:8000/937388595669676/744370120217993/30126
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 5  Espa" tvg-logo="https://sportguide.live/images/stations/a1550.png" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA DE CAMPEONES 5  Espa
+http://ott-serveur.com:8000/937388595669676/744370120217993/30125
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 6  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA DE CAMPEONES 6  Espa
+http://ott-serveur.com:8000/937388595669676/744370120217993/30124
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: LIGA DE CAMPEONES 7  Espa" tvg-logo="https://sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA DE CAMPEONES 7  Espa
+http://ott-serveur.com:8000/937388595669676/744370120217993/30123
+
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES: LIGA CAMPEONES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHUurFF-3FTFXEwazzWhEVTuwAI2Djj29qpVM1YECJS7iwcf6N&s" group-title="|EU| ESPAÑA DEPORTES",ES: LIGA CAMPEONES
+http://ott-serveur.com:8000/937388595669676/744370120217993/30130
+
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES: M.LALIGA FHD" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/campeonato_espanhol_hd.jpg" group-title="|EU| ESPAÑA DEPORTES",ES: M.LALIGA FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/30202
+
+
+
+
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES: MOVISTAR F1 FHD" tvg-logo="https://static.motor.es/fotos-noticias/2018/03/min652x435/movistar-f1-confirma-equipo-retransmision-temporada-2018-201844563_1.jpg" group-title="|EU| ESPAÑA DEPORTES",ES: MOVISTAR F1 FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/30096
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Movistar_Golf.svg/1200px-Movistar_Golf.svg.png" group-title="|EU| ESPAÑA DEPORTES",ES: MOVISTAR GOLF FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/30095
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES: MOVISTAR VAMOS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vamos.svg/1200px-Vamos.svg.png" group-title="|EU| ESPAÑA DEPORTES",ES: MOVISTAR VAMOS FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/30087
+#EXTINF:-1 tvg-id="" tvg-name="ES: Footters HD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Footters HD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149069
+
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana FHD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Dazn 1 Espana FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149075
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 Espana HD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Dazn 1 Espana HD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149074
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana FHD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Dazn 2 Espana FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149073
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 Espana HD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: Dazn 2 Espana HD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149072
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 FHD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: M. Dazn 1 FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149068
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 FHD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: M. Dazn 2 FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149067
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 1 SD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: M. Dazn 1 SD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149066
+#EXTINF:-1 tvg-id="" tvg-name="ES: M. Dazn 2 SD" tvg-logo="" group-title="|EU| ESPAÑA DEPORTES",ES: M. Dazn 2 SD
+http://ott-serveur.com:8000/937388595669676/744370120217993/149065
+
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN MOTO GP FHD" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="|EU| ESPAÑA DEPORTES",ES: DAZN MOTO GP FHD
+http://ott-serveur.com:8000/937388595669676/744370120217993/86823
+#EXTINF:-1 tvg-id="NULL" tvg-name="ES: DAZN MOTO GP HD" tvg-logo="https://www.lemagsportauto.com/wp-content/uploads/2016/11/Moto-GP-horaires-des-libres-et-qualifications-du-GP-de-Valence-e1478925856702.jpg" group-title="|EU| ESPAÑA DEPORTES",ES: DAZN MOTO GP HD
+http://ott-serveur.com:8000/937388595669676/744370120217993/86822
